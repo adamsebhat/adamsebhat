@@ -1,24 +1,29 @@
 # Adam Sebhat
 
-**Computer Science student** building things I actually want to use.
-
-Currently working on **The xRphilosophy** — a Premier League analytics app built on Expected Results modelling, not scorelines.
+Geography & Data Science · University of Washington
 
 ---
 
-### Projects
+## Projects
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| [**The xRphilosophy**](https://github.com/adamsebhat/xr-football) | Premier League xR analytics — rolling form, Poisson predictions, xPts table | Next.js · Python · ESPN API |
+### [xr-football](https://github.com/adamsebhat/xr-football) — The xRphilosophy
+Premier League analytics built on Expected Results. Rolling form, Poisson scoreline probabilities, and an Expected Points (xPts) table that surfaces who's lucky and who's not.
+**Stack:** Next.js 15 · Python · ESPN API · Vercel
 
 ---
 
-### Stack
+### [uw-coursework](https://github.com/adamsebhat/uw-coursework) — University of Washington Coursework
+Organized portfolio of undergraduate work spanning GIS, urban housing analysis, digital cartography, web mapping, machine learning, and data science.
 
-**Languages:** Python · TypeScript · JavaScript  
-**Frontend:** Next.js · React  
-**Tools:** Git · Vercel
+| Course | Topic |
+|--------|-------|
+| GEO 445 | Urban Housing & GIS — racial disparities in lending, rent burden, poverty mapping |
+| GEO 395 | Digital Cartography — thematic maps, visual hierarchy |
+| GEO 328 | Web Mapping — interactive Mapbox GL JS maps |
+| GEO 360 | GIS Mapping — spatial analysis, ArcGIS |
+| CSE 416 | Machine Learning — regression, classification, Python |
+| INFO 201 | Data Science — R, ggplot2, data wrangling |
+| STAT 311 | Statistical Methods — inference, regression |
 
 ---
 
